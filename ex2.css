@@ -1,0 +1,18 @@
+.restante {
+    width: 500px;
+    height: 500px;
+    background-color: darkgrey;
+    padding: 10px;
+    margin-left: 300px;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: #4d0080;
+    position: relative;
+    bottom: 400px;
+    left: 500px;
+    color: rgb(134, 177, 170);
+    padding: 20px;
+}

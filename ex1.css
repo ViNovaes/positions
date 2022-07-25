@@ -1,0 +1,22 @@
+
+.restante {
+    width: 500px;
+    height: 1500px;
+    background-color: darkgrey;
+    padding: 10px;
+    margin-left: 300px;
+}
+
+.box {
+    width: 150px;
+    height: 150px;
+    background-color: #4d0080;
+    position: fixed;
+    top: 20px;
+    left: 100px;
+}
+
+h2 {
+    padding-top: 20px;
+    color: rgb(30, 153, 112);
+}

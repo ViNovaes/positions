@@ -1,0 +1,27 @@
+.container {
+    width: 350px;
+    height: 450px;
+    border: dashed 3px black;
+}
+
+.box1, .box2, .box3 {
+    width: 150px;
+    height: 150px;
+}
+
+.box1 {
+    background-color: purple;
+    position: relative;
+    left: 150px;
+}
+
+.box2 {
+    background-color: aquamarine;
+}
+
+.box3 {
+    background-color: #00801c;
+    position: fixed;
+    bottom: 20px;
+    /* left: 150px; */
+}
